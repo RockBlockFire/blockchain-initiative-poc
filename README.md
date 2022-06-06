@@ -79,3 +79,4 @@ $ npm run test:cov
 
 - [Web3 Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
 - [Interact with smart contracts](https://blog.logrocket.com/interacting-smart-contracts-via-nodejs-api/)
+- [Blockchain Learn resources](https://sunita-parbhu.medium.com/2022-top-10-resources-for-learning-blockchain-defi-nft-cc016e963aad)
